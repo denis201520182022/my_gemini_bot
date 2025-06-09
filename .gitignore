@@ -19,3 +19,5 @@ config.py
 
 # Системные файлы
 .DS_Store
+
+.env
