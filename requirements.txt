@@ -1,2 +1,6 @@
 aiogram==3.4.1
 python-dotenv
+
+google-generativeai
+openai-whisper
+ffmpeg-python
